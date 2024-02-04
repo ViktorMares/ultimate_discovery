@@ -17,4 +17,4 @@ sudo apt-get install dirsearch
 ```
 dirsearch -u https://example.com --exclude-status=404 -w ~/ultimate-discovery.txt
 ```
-![ultimate](https://github.com/ViktorMares/ultimate_discovery/assets/80492489/2e3e42ee-cbd8-4c89-8c03-e658dbe5d8cd)
+![ultimate](https://github.com/ViktorMares/ultimate_discovery/assets/80492489/27332674-645e-4a13-b96b-78a92d4f6a9d)
