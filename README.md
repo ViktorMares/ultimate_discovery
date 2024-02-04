@@ -15,6 +15,6 @@ git clone https://github.com/ViktorMares/ultimate_discovery.git
 sudo apt-get install dirsearch
 ```
 ```
-dirsearch -u https://example.com --exclude-status=404 -w ~/ultimate_discovery.txt
+dirsearch -u https://example.com --exclude-status=404 -w ~/ultimate-discovery.txt
 ```
-![ultimate](https://github.com/ViktorMares/ultimate_discovery/assets/80492489/8c6a6442-0217-4ccc-ab83-4a1afa7ecc03)
+![ultimate](https://github.com/ViktorMares/ultimate_discovery/assets/80492489/2e3e42ee-cbd8-4c89-8c03-e658dbe5d8cd)
