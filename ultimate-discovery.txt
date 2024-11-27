@@ -41191,6 +41191,8 @@ modlogan
 .modman
 .modman/
 /*?mod=misc*
+mod_pagespeed_global_statistics
+mod_pagespeed_message
 mods
 module
 .modules
@@ -42489,6 +42491,9 @@ pages/forms/editform.aspx
 pages/forms/webfldr.aspx
 pages/includes/status
 /pages/interactives/sponsor-story/
+pagespeed_admin
+pagespeed_console
+pagespeed_global_admin
 pageversioninfo.aspx
 paginasamarillas/
 pagination
